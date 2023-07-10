@@ -1,0 +1,18 @@
+{
+  "name": "honeypot-checker",
+  "version": "1.0.0",
+  "description": "hoenypot detector on defi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.2.4",
+    "web3": "^1.7.3"
+  },
+  "author": "",
+  "license": "MIT"
+}
